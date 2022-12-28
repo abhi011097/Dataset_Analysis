@@ -1,0 +1,17 @@
+Which distribution does graph depicts about distribution of Amount
+    * Looking at graph 1 we can conclude it follows almost a uniform distribution with outliers
+        
+        
+Suggest which method beter to handle outlier if needed to handle in such scenarios
+    * Since it does not follow normal distribution it will be better to avoid z score 
+    * Use Iqr method
+  
+3 City having highest no of transactions 
+    * Top 3 City  ->  ['Bengaluru', 'Greater Mumbai', 'Ahmedabad']
+
+3 City having lowest no of transactions
+    * Last 3 City ->  ['Alirajpur', 'Bagaha', 'Changanassery']
+    
+Comment on count Distribution of City column   
+    * top 4 city out of 986 city contribute over 50 % of the transactions 
+    * after top 4 there is a sharp drop in numbers from thousands to hundreds (moving from 4th to 5th city)
