@@ -15,3 +15,6 @@ Suggest which method beter to handle outlier if needed to handle in such scenari
 Comment on count Distribution of City column   
     * top 4 city out of 986 city contribute over 50 % of the transactions 
     * after top 4 there is a sharp drop in numbers from thousands to hundreds (moving from 4th to 5th city)
+    
+    
+    
